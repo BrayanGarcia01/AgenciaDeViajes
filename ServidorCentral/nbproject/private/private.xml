@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/brayangarcia/Desktop/CodigoFuente/ServidorCentral/src/negocio/Ciudad.java</file>
+            <file>file:/Users/brayangarcia/Desktop/CodigoFuente/ServidorCentral/src/negocio/PaqueteWeb.java</file>
+            <file>file:/Users/brayangarcia/Desktop/CodigoFuente/ServidorCentral/src/negocio/PaqueteComponent.java</file>
+            <file>file:/Users/brayangarcia/Desktop/CodigoFuente/ServidorCentral/src/negocio/Paquete.java</file>
+            <file>file:/Users/brayangarcia/Desktop/CodigoFuente/ServidorCentral/src/negocio/PlanAlimentacionHotel.java</file>
+            <file>file:/Users/brayangarcia/Desktop/CodigoFuente/ServidorCentral/src/negocio/GestorHoteles.java</file>
+            <file>file:/Users/brayangarcia/Desktop/CodigoFuente/ServidorCentral/src/negocio/GestorVuelos.java</file>
+            <file>file:/Users/brayangarcia/Desktop/CodigoFuente/ServidorCentral/src/negocio/Habitacion.java</file>
+            <file>file:/Users/brayangarcia/Desktop/CodigoFuente/ServidorCentral/src/negocio/GestorCliente.java</file>
+            <file>file:/Users/brayangarcia/Desktop/CodigoFuente/ServidorCentral/src/negocio/ConectorJdbc.java</file>
+            <file>file:/Users/brayangarcia/Desktop/CodigoFuente/ServidorCentral/src/negocio/GestorCiudad.java</file>
+            <file>file:/Users/brayangarcia/Desktop/CodigoFuente/ServidorCentral/src/negocio/Hotel.java</file>
+            <file>file:/Users/brayangarcia/Desktop/CodigoFuente/ServidorCentral/src/negocio/GestorPlanAlimentacion.java</file>
+            <file>file:/Users/brayangarcia/Desktop/CodigoFuente/ServidorCentral/src/servicio/ServidorCentralServer.java</file>
+            <file>file:/Users/brayangarcia/Desktop/CodigoFuente/ServidorCentral/src/negocio/Vuelo.java</file>
+            <file>file:/Users/brayangarcia/Desktop/CodigoFuente/ServidorCentral/src/negocio/GestorPlanesPersonalizados.java</file>
+            <file>file:/Users/brayangarcia/Desktop/CodigoFuente/ServidorCentral/src/negocio/GestorUsuario.java</file>
+            <file>file:/Users/brayangarcia/Desktop/CodigoFuente/ServidorCentral/src/negocio/GestorCityTour.java</file>
+            <file>file:/Users/brayangarcia/Desktop/CodigoFuente/ServidorCentral/src/negocio/GestorPaquetesWeb.java</file>
+            <file>file:/Users/brayangarcia/Desktop/CodigoFuente/ServidorCentral/src/negocio/Usuario.java</file>
+            <file>file:/Users/brayangarcia/Desktop/CodigoFuente/ServidorCentral/src/negocio/Cliente.java</file>
+            <file>file:/Users/brayangarcia/Desktop/CodigoFuente/ServidorCentral/src/negocio/CityTour.java</file>
+        </group>
+    </open-files>
+</project-private>

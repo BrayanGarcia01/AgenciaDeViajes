@@ -1,0 +1,54 @@
+--TABLA CLIENTE (R1)
+
+--DROP TABLE CLIENTE
+create table CLIENTE 
+(
+   IDENTIFICACION       NUMERIC         not null,
+   NOMBRES              VARCHAR(50)     not null,
+   APELLIDOS            VARCHAR(50)	not null,
+   FECHANAC             DATE,
+   GENERO               VARCHAR(1)	not null,
+   DIRECCION            VARCHAR(128),
+   CIUDADRESIDENCIA     VARCHAR(50),
+   CELULAR              NUMERIC,
+   EMAIL                VARCHAR(100)	not null,  
+   primary key (IDENTIFICACION)
+);
+
+insert into cliente values(1061820498,'Daniel Alejandro','Mejia Ascuntar','1999-09-25','M','Cll 25N #2-430','Popayan',300741866,'danielmej@unicauca.edu.co');
+
+update cliente set 
+nombres='Pepito', 
+apellidos='Perez',
+fechanac='2000-01-01',
+genero='M',
+direccion='Av norte',
+ciudadresidencia='Bogota',
+celular=300,
+email='@yahoo.com' 
+where identificacion=100;
+
+
+select * from cliente;
+
+--TABLA USUARIO
+DROP TABLE USUARIO
+
+create table USUARIO
+(
+    NOMBRE          VARCHAR(50)     not null,
+    CONTRASENIA     VARCHAR(50)     not null,
+    NOMBRECOMPLETO  VARCHAR(100)    not null,
+    CARGO           NUMERIC         not null,
+    FECHACREACION   TIMESTAMP       not null,
+    primary key (NOMBRE)
+);
+
+
+insert into USUARIO values('danielmej','password1234','Daniel Alejandro Mejia Ascuntar',10,current_timestamp);
+update usuario set contrasenia='abracadabra',nombrecompleto='Daniel Alejandro Mejia Ascuntar',cargo=20 where nombre='danielmej'
+
+
+select * from usuario;
+
+delete from usuario where nombre='danielmej';
